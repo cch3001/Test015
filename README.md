@@ -31,11 +31,12 @@ image
  |:---|:---:|
  |2024/4/15| Markdown
 
-![a](java.png)
+
 
  **刪除線**<br>
+ ![a](java.png)
  ~~ABC~~
-
+![a](java.png)
 <br>
 
 
