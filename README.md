@@ -24,6 +24,9 @@ image
  ![a](C:\Local\java.png)
  ![a](java.png)
  <br>
+![alt text](image.png)
+![alt text](image-1.png)
+ <br>
  | 日期 | 項目 | 
  |:---|:---:|
  |2024/4/15| Markdown
@@ -37,9 +40,7 @@ dict
 
 - [ ] tolist 01
 - [x] todolist 02
-<br>
-![alt text](image.png)
-![alt text](image-1.png)
+
 <br>
 H~2~O
 X^2^
