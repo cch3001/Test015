@@ -36,14 +36,14 @@ image
  **刪除線**<br>
  ![a](java.png)
  ~~ABC~~
-![a](java.png)
+
 <br>
 
-
+![a](java.png)
 <br>
 H~2~O
 X^2^
-
+![a](java.png)
  **定義**
 dict
 : 字典
