@@ -42,7 +42,8 @@ dict
 - [x] todolist 02
 
 <br>
+![a](java.png)
+
+<br>
 H~2~O
 X^2^
-<br>
-![a](java.png)
