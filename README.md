@@ -34,16 +34,16 @@ image
  **刪除線**<br>
  ~~ABC~~
 
- **定義**
-dict
-: 字典
-
-- [ ] tolist 01
-- [x] todolist 02
-
 <br>
 ![a](java.png)
 
 <br>
 H~2~O
 X^2^
+
+ **定義**
+dict
+: 字典
+
+- [ ] tolist 01
+- [x] todolist 02
